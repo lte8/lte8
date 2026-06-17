@@ -1,17 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm [SAYF EDDINE]</h1>
 
-<!--
-**lte8/lte8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Software Developer</strong> passionate about building scalable applications and solving real-world problems through code.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Focused on clean architecture, performance, and modern development practices.<br>
+  💡 Always learning new technologies and improving my skills.<br>
+  🌱 Open to collaboration on exciting open-source and professional projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p>Passionate Software Developer | Building clean, scalable, and efficient solutions.</p>
+<p align="center">
+  <em>"Turning ideas into reliable and efficient software."</em>
+</p>
