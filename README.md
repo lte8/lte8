@@ -1,15 +1,41 @@
-<h1 align="center">Hi 👋, I'm [SAYF EDDINE]</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Developer</strong> passionate about building scalable applications and solving real-world problems through code.
-</p>
+<h1>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sayf+Eddine;Software+Developer;Web+and+Discord+Developer" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  🚀 Focused on clean architecture, performance, and modern development practices.<br>
-  💡 Always learning new technologies and improving my skills.<br>
-  🌱 Open to collaboration on exciting open-source and professional projects.
-</p>
+<img src="https://img.shields.io/badge/Developer-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Freelancer-FF9800?style=for-the-badge" />
 
-<p align="center">
-  <em>"Turning ideas into reliable and efficient software."</em>
-</p>
+<br><br>
+
+<h3>💻 About Me</h3>
+
+Passionate Software Developer focused on building modern applications, websites, and Discord solutions.
+
+🚀 Clean & scalable code
+⚡ Performance-focused development
+🌱 Continuous learning and improvement
+🤝 Open to freelance and collaboration opportunities
+
+<br>
+
+<h3>🛠 Services</h3>
+
+🌐 Custom Website Development<br>
+🤖 Discord Bot Development<br>
+🏰 Professional Discord Server Setup<br>
+🔧 Custom Features & Automation
+
+<br>
+
+<h3>📈 Goals</h3>
+
+Building reliable software that helps people and businesses grow.
+
+<br>
+
+<i>"Turning ideas into reliable and efficient software."</i>
+
+</div>
